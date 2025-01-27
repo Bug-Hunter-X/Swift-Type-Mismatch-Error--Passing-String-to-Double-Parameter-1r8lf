@@ -1,0 +1,1 @@
+This repository demonstrates a common Swift coding error involving type mismatches.  The `bug.swift` file shows the erroneous code where a String is passed to a function expecting a Double. The solution, found in `bugSolution.swift`, shows how to correctly handle type conversion to resolve the issue.
